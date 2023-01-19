@@ -1,0 +1,6 @@
+gym
+gym[box2d]
+tensorflow
+numpy
+pygame
+memory_profiler
